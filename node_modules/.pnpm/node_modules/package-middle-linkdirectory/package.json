@@ -1,0 +1,11 @@
+{
+  "name": "package-middle-linkdirectory",
+  "version": "1.0.0",
+  "publishConfig": {
+    "directory": "dist",
+    "linkDirectory": true
+  },
+  "dependencies": {
+    "package-root": "workspace:*"
+  }
+}

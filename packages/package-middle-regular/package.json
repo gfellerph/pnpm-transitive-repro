@@ -1,0 +1,8 @@
+{
+    "name": "package-middle-regular",
+    "version": "1.0.0",
+    
+    "dependencies": {
+      "package-root": "workspace:*"
+   
+    }}  

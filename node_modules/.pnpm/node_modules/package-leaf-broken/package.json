@@ -1,0 +1,11 @@
+{
+  "name": "package-leaf-broken",
+  "version": "1.0.0",
+  "publishConfig": {
+    "directory": "dist",
+    "linkDirectory": true
+  },
+  "dependencies": {
+    "package-middle-linkdirectory": "workspace:*"
+  }
+}
